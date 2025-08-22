@@ -48,4 +48,4 @@ Targeted Marketing: The dashboard allows marketing teams to identify specific cu
 
 Strategic Planning: Business leaders can use the insights on top churn drivers to improve service offerings, renegotiate contract terms, or enhance customer support for specific pain points.
 ## Screenshots/Demo
-
+github.com/Ritika-piplani/Churn-Analysis/blob/main/Snapshot%20of%20Dashboard.png
